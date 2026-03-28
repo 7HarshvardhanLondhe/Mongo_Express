@@ -1,0 +1,12 @@
+body{
+    margin-left:20px;
+    padding:20px;
+}
+
+.chat{
+    background-color: aquamarine;
+    display:inline-block;
+}
+.msg{
+    background-color: antiquewhite;
+}
